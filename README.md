@@ -1,19 +1,18 @@
-# Doctor-app-aws-deployment
+# Doctor-app
 
-This project implements a task API between doctor and patient using Spring Boot. It provides endpoints to manage Appointment tasks for patient and also deploy this on public server using AWS.
+This project implements a task API between doctor and patient using Spring Boot. It provides endpoints to manage Appointment tasks for patient.
 
 ## Technologies Used
 
 - Java: The programming language used to develop the application.
 - Spring Boot: The framework used for creating the API endpoints and managing the application's configuration.
-- AWS: The public hosting server used to manage online running server with different instances
 - Maven: The build tool used for dependency management and project building.
 
 ## Getting Started
 
 To get started with the Ecommerce API, follow these steps:
 
-1. **Prerequisites**: Ensure you have Java, AWS, and Maven installed on your system.
+1. **Prerequisites**: Ensure you have Java and Maven installed on your system.
 
 2. **Clone the Repository**: Clone this repository to your local machine.
 
@@ -40,9 +39,6 @@ To get started with the Ecommerce API, follow these steps:
 - Java: The programming language used to develop the application.
 
 
-## Authors
-
-- [@Sachin Shukla](https://github.com/Sach42/Doctor-app-aws-deployment/tree/main)
 
 
 ## Badges
